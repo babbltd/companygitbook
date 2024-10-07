@@ -11,6 +11,8 @@ layout:
     visible: true
   pagination:
     visible: false
+words:
+  2024-10-07: 18
 ---
 
 # Mission
