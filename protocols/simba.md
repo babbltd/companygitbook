@@ -15,4 +15,3 @@ layout:
 
 # SIMBA
 
-Most protocols in BASICS deal with Tool Types; SIMBA aids coordination between tools.

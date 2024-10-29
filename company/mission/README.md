@@ -11,11 +11,7 @@ layout:
     visible: true
   pagination:
     visible: false
-words:
-  2024-10-07: 18
 ---
 
 # Mission
-
-> **Accelerate business creation around the world and across the cosmos for people of all ages, kids included.**
 
